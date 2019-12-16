@@ -27,7 +27,7 @@ var myTableView:UITableView!
     navigationItem.leftBarButtonItem = UIBarButtonItem(image: UIImage(named:"1"), style: .plain, target: self, action: #selector(addTapped))
        
         DisplayView()
-print(".................................................")
+//print(".................................................")
 print("........................////.........................")
    MyTableViewDisplay()
        
