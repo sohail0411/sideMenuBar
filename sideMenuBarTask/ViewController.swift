@@ -28,6 +28,7 @@ var myTableView:UITableView!
        
         DisplayView()
 print(".................................................")
+print("........................////.........................")
    MyTableViewDisplay()
        
         // Do any additional setup after loading the view.
